@@ -6,7 +6,11 @@ export function Navbar() {
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="flex h-16 items-center justify-between">
           <div className="flex items-center">
-            <span className="text-xl font-semibold text-white">DAT Prep +</span>
+            <a
+              href="#"
+              onClick={(e) => { e.preventDefault(); window.scrollTo({ top: 0, behavior: "smooth" }); }}
+              className="text-xl font-semibold text-white hover:text-white/80 transition-colors"
+            >DAT Prep +</a>
           </div>
 
           <div className="flex items-center gap-6">

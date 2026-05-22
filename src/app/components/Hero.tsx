@@ -1,6 +1,5 @@
 import { Button } from "./ui/button";
 import { ArrowRight } from "lucide-react";
-import laurelImage from "../../imports/Untitled_design.svg";
 
 export function Hero() {
   return (

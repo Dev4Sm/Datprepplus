@@ -55,7 +55,7 @@ export function Reviews() {
   ];
 
   return (
-    <section className="py-24 bg-gray-900/40 backdrop-blur-sm">
+    <section id="reviews" className="py-24 bg-gray-900/40 backdrop-blur-sm">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-2xl text-center mb-16">
           <h2 className="mb-4 text-4xl tracking-tight text-white">

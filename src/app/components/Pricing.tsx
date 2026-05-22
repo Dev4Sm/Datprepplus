@@ -55,7 +55,7 @@ export function Pricing() {
                 ))}
               </ul>
 
-              <Button size="lg" className="w-full text-base bg-blue-600 hover:bg-blue-700 border-yellow-500/80">
+              <Button size="lg" className="w-full text-base bg-blue-600 hover:bg-blue-700 border-yellow-500/80 text-white">
                 <Download className="mr-2 h-5 w-5" />
                 Get Instant Access Now
               </Button>
