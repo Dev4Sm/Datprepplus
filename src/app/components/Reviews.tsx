@@ -33,7 +33,7 @@ export function Reviews() {
       initials: "DL",
       school: "Columbia Dental",
       rating: 5,
-      text: "The PhD-level biology insights made complex topics so much clearer. You can tell this was written by an expert who truly understands the science.",
+      text: "The advanced biology insights made complex topics so much clearer. You can tell this was written by an expert who truly understands the science.",
       score: "DAT Score: 25"
     },
     {

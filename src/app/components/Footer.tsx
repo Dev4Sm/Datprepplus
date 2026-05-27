@@ -12,8 +12,8 @@ export function Footer() {
           <div>
             <h3 className="mb-4 text-white">DAT Mastery Guide</h3>
             <p className="text-sm text-white/70 leading-relaxed">
-              Your comprehensive resource for DAT success, created by a PhD scientist who achieved
-              99th percentile and gained admission to UCSF Dental School.
+              Your comprehensive resource for DAT success, with a proven track record of multiple students
+              scoring in the 99th percentile and gaining admission to UCSF Dental School.
             </p>
           </div>
 

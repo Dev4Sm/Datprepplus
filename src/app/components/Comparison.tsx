@@ -7,7 +7,7 @@ export function Comparison() {
     { feature: "Lifetime access to materials", ourGuide: true, others: false },
     { feature: "One-time payment (no subscriptions)", ourGuide: true, others: false },
     { feature: "Written by 99th percentile scorer", ourGuide: true, others: false },
-    { feature: "PhD-level scientific expertise", ourGuide: true, others: false },
+    { feature: "Proven 99th percentile teaching record", ourGuide: true, others: false },
     { feature: "Comprehensive biology coverage", ourGuide: true, others: true },
     { feature: "Practice questions included", ourGuide: true, others: true },
     { feature: "Study schedules & strategies", ourGuide: true, others: true },

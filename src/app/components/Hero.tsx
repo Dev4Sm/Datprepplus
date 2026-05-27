@@ -12,8 +12,7 @@ export function Hero() {
           </h1>
 
           <p className="mb-10 text-lg text-white/80 leading-relaxed">
-            Created by a PhD microbiologist with peer-reviewed publications who scored in the
-            99th percentile and gained acceptance to UCSF—one of the most prestigious dental schools in the nation.
+            Proven results with multiple students scoring in the 99th percentile, gaining acceptance to UCSF—one of the most prestigious dental schools in the nation.
           </p>
 
           <div className="flex justify-center">

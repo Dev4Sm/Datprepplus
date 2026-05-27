@@ -5,8 +5,8 @@ export function Credentials() {
   const achievements = [
     {
       icon: GraduationCap,
-      title: "PhD in Microbiology",
-      description: "Advanced research expertise with multiple peer-reviewed publications in top scientific journals"
+      title: "Proven Teaching Track Record",
+      description: "Multiple students scoring in the 99th percentile, gaining acceptance to UCSF and other top dental programs"
     },
     {
       icon: Award,
